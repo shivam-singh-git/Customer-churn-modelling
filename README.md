@@ -15,7 +15,7 @@ This is a comprehensive system for predicting customer churn using machine learn
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/shivam-singh-git/Customer-churn-modelling.git
 cd customer-churn-prediction
 ```
 
