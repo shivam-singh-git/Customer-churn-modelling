@@ -2,6 +2,9 @@
 
 This is a comprehensive system for predicting customer churn using machine learning. The system includes data preprocessing, model training, prediction, and analysis capabilities, all wrapped in a user-friendly Streamlit interface.
 
+
+Link to the deployed project via streamlit : https://shivam-singh-git-customer-churn-modelling-app-opvg2w.streamlit.app/
+
 ## Features
 
 - Data preprocessing and feature engineering
